@@ -24,7 +24,7 @@ git clone https://github.com/raniadf/15puzzle.git
 ```
 
 ### Program Execution
-1. Open the '15puzzle' folder
+1. Open the 'Tucil3_1520142' folder
 2. Open CMD, and type
    ```
    cd src

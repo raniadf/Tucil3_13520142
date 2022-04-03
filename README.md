@@ -20,7 +20,7 @@ Rania Dwi Fadhilah - 13520142 (K1)
 ### Program Installation
 Clone the repository to the laptop local repository.
 ```
-git clone https://github.com/raniadf/15puzzle.git
+git clone https://github.com/raniadf/Tucil3_13520142.git
 ```
 
 ### Program Execution

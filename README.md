@@ -32,4 +32,4 @@ git clone https://github.com/raniadf/Tucil3_13520142.git
    ```
 3. Pick which input you want to use
 4. If 1, make sure that the file is inside the test folder
-5. Program will find it's way to SOOOOLVEEE your puzzle!
+5. Program will find its way to SOOOOLVEEE your puzzle!
